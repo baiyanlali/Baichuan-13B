@@ -28,6 +28,12 @@
 </h4>
 </div>
 
+# 修改内容：相比原版的web前端增加了多对话模式，对于本地网络的每个IP也会分别记录聊天记录。只适合做玩具使用。数据泄露了别找我。
+
+<p align="center">
+    <img src="media/new-web.png" width="100%"/>
+</p>
+
 # 更新信息
 - [2023.09.06] 我们发布了新一代开源模型 [Baichuan 2](https://github.com/baichuan-inc/Baichuan2)，包含 7B、13B 尺寸 🔥🔥🔥
 - [2023.08.01] 更新了对齐模型 [Baichuan-13B-Chat](https://huggingface.co/baichuan-inc/Baichuan-13B-Chat) 权重，优化了部分场景的效果

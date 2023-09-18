@@ -28,6 +28,12 @@
 </h4>
 </div>
 
+# Modified Part
+Add multi conversation function. Only a silly implemetation.
+<p align="center">
+    <img src="media/new-web.png" width="100%"/>
+</p>
+
 # Update
 [2023.08.01] Updated weights of the aligned model [Baichuan-13B-Chat](https://huggingface.co/baichuan-inc/Baichuan-13B-Chat), optimizing the effects in some scenarios.
 
